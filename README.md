@@ -68,7 +68,7 @@
 <br>Vue
 </td>
 <td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/nuxt/nuxt.js/dev/assets/nuxt-icon.png" width="36" height="36" alt="Nuxt.js" />
+<img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="36" height="36" alt="Nuxt.js" />
 <br>Nuxt.js
 </td>
 </tr>
@@ -78,11 +78,11 @@
 <br>Redux
 </td>
 <td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/mobxjs/mobx/master/docs/mobx.png" width="36" height="36" alt="MobX" />
+<img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="MobX" />
 <br>MobX
 </td>
 <td align="center" width="110" height="90">
-<img src="https://reactrouter.com/_next/static/media/logo.79c1d2b1.svg" width="36" height="36" alt="React Router" />
+<img src="https://www.svgrepo.com/show/354262/react-router.svg" width="36" height="36" alt="React Router" />
 <br>React Router
 </td>
 <td align="center" width="110" height="90">
@@ -90,7 +90,7 @@
 <br>Pinia
 </td>
 <td align="center" width="110" height="90">
-<img src="https://vuex.vuejs.org/vuex-logo.png" width="36" height="36" alt="Vuex" />
+<img src="https://cdn.worldvectorlogo.com/logos/vuex-1.svg" width="36" height="36" alt="Vuex" />
 <br>Vuex
 </td>
 <td align="center" width="110" height="90">
