@@ -144,7 +144,7 @@
 </td>
 <tr>
 <td align="center" width="110" height="90">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/308px-Apache_Kafka_logo.svg.png?20210416085520" width="36" height="36" alt="Kafka" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kafka.svg" width="36" height="36" alt="Kafka" />
 <br>Kafka
 </td>
 <td align="center" width="110" height="90">
