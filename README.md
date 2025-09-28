@@ -31,9 +31,13 @@
 <br>CSS
 </td>
 <td align="center" width="110" height="90">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="36" height="36" alt="Python" />
+<br>Python
+</td>
+<tr>
+<td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
 <br>Git
-<tr>
 </td>
 <td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
@@ -121,10 +125,7 @@
 
 <table width='100%'>
 <tr>
-<td align="center" width="110" height="90">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="36" height="36" alt="Python" />
-<br>Python
-</td>
+
 <td align="center" width="110" height="90">
 <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="36" height="36" alt="FastAPI" />
 <br>FastAPI
@@ -191,6 +192,14 @@
 <br>Jest
 </td>
 <td align="center" width="110" height="90">
+<img src="https://vitest.dev/logo.svg" width="36" height="36" alt="Vitest" />
+<br>Vitest
+</td>
+<td align="center" width="110" height="90">
+<img src="https://pytest.org/img/logo.svg" width="36" height="36" alt="pytest" />
+<br>pytest
+</td>
+<td align="center" width="110" height="90">
 <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="React Testing Library" />
 <br>RTL
 </td>
@@ -201,6 +210,7 @@
 <td align="center" width="110" height="90">
 <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="Cypress" />
 <br>Cypress
+<tr>
 </td>
 <td align="center" width="110" height="90">
 <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" />
@@ -210,6 +220,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="36" height="36" alt="Selenium" />
 <br>Selenium
 </td>
+
+
 </tr>
 </table>
 
