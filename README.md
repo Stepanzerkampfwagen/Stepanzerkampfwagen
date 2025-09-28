@@ -7,51 +7,87 @@
 <div>
 <a href="https://t.me/stepanzdev"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=flat&logo=telegram&logoColor=white"></a>
 <a href="mailto:razterpen@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/Stepanzerkampfwagen"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white"></a>
-</div>
 
+---
 
-<h2 align="left">🔥 Tech Stack</h2>
-
-> Frontend & Styling
+## 🌐 General
 
 <table width='100%'>
 <tr>
 <td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
-<br>React
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
+<br>HTML
+</td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
+<br>CSS
+</td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
+<br>Figma
+</td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="npm" />
+<br>npm
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Frontend
+
+<table width='100%'>
+<tr>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
+<br>JavaScript
 </td>
 <td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
 <br>TypeScript
 </td>
 <td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
+<br>React
+</td>
+<td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next.js" />
 <br>Next.js
 </td>
 <td align="center" width="110" height="90">
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
-<br>Redux
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" />
+<br>Vue
 </td>
 <td align="center" width="110" height="90">
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" />
-<br>Tailwind
-</td>
-<td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36" height="36" alt="SASS" />
-<br>SASS/SCSS
-</td>
-<td align="center" width="110" height="90">
-<img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="MUI" />
-<br>MUI
+<img src="https://raw.githubusercontent.com/nuxt/nuxt.js/dev/assets/nuxt-icon.png" width="36" height="36" alt="Nuxt.js" />
+<br>Nuxt.js
 </td>
 </tr>
 </table>
 
-> Backend & Fullstack
+---
+
+## 🖥 Backend
 
 <table width='100%'>
 <tr>
+<td align="center" width="110" height="90">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="36" height="36" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="110" height="90">
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="36" height="36" alt="FastAPI" />
+<br>FastAPI
+</td>
 <td align="center" width="110" height="90">
 <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node.js" />
 <br>Node.js
@@ -60,22 +96,70 @@
 <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nest.js" />
 <br>Nest.js
 </td>
+</tr>
+</table>
+
+---
+
+## 🗄 Database
+
+<table width='100%'>
+<tr>
 <td align="center" width="110" height="90">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
-<br>GraphQL
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
+<br>PostgreSQL
 </td>
 <td align="center" width="110" height="90">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
-<br>MongoDB
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" />
+<br>Redis
 </td>
 <td align="center" width="110" height="90">
-<img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
-<br>Firebase
+<img src="https://www.sqlalchemy.org/img/sqla_logo.png" width="36" height="36" alt="SQLAlchemy" />
+<br>SQLAlchemy
+</td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/images/logo_dark.svg" width="36" height="36" alt="Prisma" />
+<br>Prisma
 </td>
 </tr>
 </table>
 
-> Testing & Code Quality
+---
+
+## 🎨 Styling
+
+<table width='100%'>
+<tr>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36" height="36" alt="SASS" />
+<br>SASS/SCSS
+</td>
+<td align="center" width="110" height="90">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" />
+<br>Tailwind CSS
+</td>
+<td align="center" width="110" height="90">
+<img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="MUI" />
+<br>MUI
+</td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg" width="36" height="36" alt="Styled Components" />
+<br>Styled Components
+</td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emotion/emotion-original.svg" width="36" height="36" alt="Emotion" />
+<br>Emotion
+</td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" />
+<br>Bootstrap
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 Testing
 
 <table width='100%'>
 <tr>
@@ -96,6 +180,23 @@
 <br>Cypress
 </td>
 <td align="center" width="110" height="90">
+<img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" />
+<br>Playwright
+</td>
+<td align="center" width="110" height="90">
+<img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="Puppeteer" />
+<br>Puppeteer
+</td>
+</tr>
+</table>
+
+---
+
+## ✅ Code Quality
+
+<table width='100%'>
+<tr>
+<td align="center" width="110" height="90">
 <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="ESLint" />
 <br>ESLint
 </td>
@@ -103,12 +204,5 @@
 <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="Prettier" />
 <br>Prettier
 </td>
-</tr>
-</table>
-
----
-
-
-## ☄️ Contact
-- :airplane: &nbsp;**[Telegram](https://t.me/stepanzdev)**  
-- :email: &nbsp;**razterpen@gmail.com**  
+<td align="center" width="110" height="90">
+<img src="https://brandeps.com/logo-download/S/
