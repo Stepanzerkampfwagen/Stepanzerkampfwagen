@@ -134,6 +134,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
 <br>PostgreSQL
 </td>
+
 <td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" />
 <br>Redis
@@ -151,6 +152,35 @@
 <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" width="36" height="36" alt="RabbitMQ" />
 <br>RabbitMQ
 </td>
+  <td align="center" width="110" height="90">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ClickHouse_logo.svg" width="36" height="36" alt="ClickHouse" />
+    <br>ClickHouse
+  </td>
+  <td align="center" width="110" height="90">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Elastic_logo.svg" width="36" height="36" alt="ElasticSearch" />
+    <br>Elasticsearch
+  </td>
+  <td align="center" width="110" height="90">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Logstash_Logo.svg" width="36" height="36" alt="Logstash" />
+    <br>Logstash
+  </td>
+  <td align="center" width="110" height="90">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Kibana_logo.svg" width="36" height="36" alt="Kibana" />
+    <br>Kibana
+  </td>
+  <tr>
+  <td align="center" width="110" height="90">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Swagger_logo.svg" width="36" height="36" alt="Swagger" />
+    <br>Swagger
+  </td>
+  <td align="center" width="110" height="90">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_Logo.png" width="36" height="36" alt="Prometheus" />
+    <br>Prometheus
+  </td>
+  <td align="center" width="110" height="90">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Grafana_logo.svg" width="36" height="36" alt="Grafana" />
+    <br>Grafana
+  </td>
 </tr>
 </table>
 
