@@ -81,10 +81,10 @@
 <img src="https://router.vuejs.org/logo.png" width="36" height="36" alt="Vue Router" />
 <br>Vue Router
 </td>
-
+<td align="center" width="110" height="90">
+<img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+<br>Vite
 </td>
-
-</tr>
 <tr>
 <td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
@@ -105,18 +105,12 @@
 <img src="https://www.svgrepo.com/show/354262/react-router.svg" width="36" height="36" alt="React Router" />
 <br>React Router
 </td>
-
-</tr>
-<tr>
 <td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" width="36" height="36" alt="Webpack" />
 <br>Webpack
 </td>
-<td align="center" width="110" height="90">
-<img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-<br>Vite
-</td>
 </tr>
+
 </table>
 
 ---
