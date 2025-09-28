@@ -165,7 +165,7 @@
 <br>Styled Components
 </td>
 <td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emotion/emotion-original.svg" width="36" height="36" alt="Emotion" />
+<img src="https://emotion.sh/logo-96x96.png" width="36" height="36" alt="Emotion" />
 <br>Emotion
 </td>
 <td align="center" width="110" height="90">
@@ -202,8 +202,8 @@
 <br>Playwright
 </td>
 <td align="center" width="110" height="90">
-<img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="Puppeteer" />
-<br>Puppeteer
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="36" height="36" alt="Selenium" />
+<br>Selenium
 </td>
 </tr>
 </table>
