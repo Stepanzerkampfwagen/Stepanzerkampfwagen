@@ -15,6 +15,14 @@
 <table width='100%'>
 <tr>
 <td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
 <br>HTML
 </td>
@@ -25,6 +33,7 @@
 <td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
 <br>Git
+<tr>
 </td>
 <td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
@@ -39,6 +48,7 @@
 <br>npm
 </td>
 </tr>
+
 </table>
 
 ---
@@ -48,42 +58,12 @@
 <table width='100%'>
 <tr>
 <td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
-<br>React
-</td>
-<td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next.js" />
-<br>Next.js
-</td>
-<td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" />
 <br>Vue
 </td>
 <td align="center" width="110" height="90">
 <img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="36" height="36" alt="Nuxt.js" />
 <br>Nuxt.js
-</td>
-</tr>
-<tr>
-<td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="36" height="36" alt="Redux" />
-<br>Redux
-</td>
-<td align="center" width="110" height="90">
-<img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="MobX" />
-<br>MobX
-</td>
-<td align="center" width="110" height="90">
-<img src="https://www.svgrepo.com/show/354262/react-router.svg" width="36" height="36" alt="React Router" />
-<br>React Router
 </td>
 <td align="center" width="110" height="90">
 <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="Pinia" />
@@ -97,6 +77,31 @@
 <img src="https://router.vuejs.org/logo.png" width="36" height="36" alt="Vue Router" />
 <br>Vue Router
 </td>
+
+</td>
+
+</tr>
+<tr>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
+<br>React
+</td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next.js" />
+<br>Next.js
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="36" height="36" alt="Redux" />
+<br>Redux
+</td>
+<td align="center" width="110" height="90">
+<img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="MobX" />
+<br>MobX
+</td>
+<td align="center" width="110" height="90">
+<img src="https://www.svgrepo.com/show/354262/react-router.svg" width="36" height="36" alt="React Router" />
+<br>React Router
+</td>
+
 </tr>
 <tr>
 <td align="center" width="110" height="90">
