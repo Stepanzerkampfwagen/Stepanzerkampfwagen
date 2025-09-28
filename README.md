@@ -144,11 +144,11 @@
 </td>
 <tr>
 <td align="center" width="110" height="90">
-<img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" width="36" height="36" alt="Kafka" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/308px-Apache_Kafka_logo.svg.png?20210416085520" width="36" height="36" alt="Kafka" />
 <br>Kafka
 </td>
 <td align="center" width="110" height="90">
-<img src="https://www.rabbitmq.com/rabbitmq-logo.svg" width="36" height="36" alt="RabbitMQ" />
+<img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" width="36" height="36" alt="RabbitMQ" />
 <br>RabbitMQ
 </td>
 </tr>
