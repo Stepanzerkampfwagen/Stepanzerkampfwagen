@@ -196,7 +196,7 @@
 <br>Vitest
 </td>
 <td align="center" width="110" height="90">
-<img src="https://pytest.org/img/logo.svg" width="36" height="36" alt="pytest" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/1200px-Pytest_logo.svg.png?20220319015434" width="36" height="36" alt="pytest" />
 <br>pytest
 </td>
 <td align="center" width="110" height="90">
