@@ -34,11 +34,12 @@
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="36" height="36" alt="Python" />
 <br>Python
 </td>
-<tr>
+
 <td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
 <br>Git
 </td>
+<tr>
 <td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
 <br>Figma
@@ -47,10 +48,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
 <br>Docker
 </td>
-<td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="npm" />
-<br>npm
-</td>
+
 </tr>
 
 </table>
@@ -70,13 +68,14 @@
 <br>Nuxt.js
 </td>
 <td align="center" width="110" height="90">
-<img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="Pinia" />
-<br>Pinia
-</td>
-<td align="center" width="110" height="90">
 <img src="https://cdn.worldvectorlogo.com/logos/vuex-1.svg" width="36" height="36" alt="Vuex" />
 <br>Vuex
 </td>
+<td align="center" width="110" height="90">
+<img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="Pinia" />
+<br>Pinia
+</td>
+
 <td align="center" width="110" height="90">
 <img src="https://router.vuejs.org/logo.png" width="36" height="36" alt="Vue Router" />
 <br>Vue Router
