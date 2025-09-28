@@ -251,6 +251,7 @@
 <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" />
 <br>Playwright
 </td>
+<tr>
 <td align="center" width="110" height="90">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="36" height="36" alt="Selenium" />
 <br>Selenium
