@@ -139,12 +139,12 @@
 <br>Redis
 </td>
 <td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/celery/celery/master/docs/source/_static/celery-logo.png" width="36" height="36" alt="Celery" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="36" height="36" alt="Celery" />
 <br>Celery
 </td>
 <tr>
 <td align="center" width="110" height="90">
-<img src="https://kafka.apache.org/images/kafka_logo.svg" width="36" height="36" alt="Kafka" />
+<img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" width="36" height="36" alt="Kafka" />
 <br>Kafka
 </td>
 <td align="center" width="110" height="90">
