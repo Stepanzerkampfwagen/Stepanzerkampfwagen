@@ -138,6 +138,19 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" />
 <br>Redis
 </td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/celery/celery/master/docs/source/_static/celery-logo.png" width="36" height="36" alt="Celery" />
+<br>Celery
+</td>
+<tr>
+<td align="center" width="110" height="90">
+<img src="https://kafka.apache.org/images/kafka_logo.svg" width="36" height="36" alt="Kafka" />
+<br>Kafka
+</td>
+<td align="center" width="110" height="90">
+<img src="https://www.rabbitmq.com/rabbitmq-logo.svg" width="36" height="36" alt="RabbitMQ" />
+<br>RabbitMQ
+</td>
 </tr>
 </table>
 
