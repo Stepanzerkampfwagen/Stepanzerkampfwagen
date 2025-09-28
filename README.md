@@ -72,6 +72,42 @@
 <br>Nuxt.js
 </td>
 </tr>
+<tr>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="36" height="36" alt="Redux" />
+<br>Redux
+</td>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/mobxjs/mobx/master/docs/mobx.png" width="36" height="36" alt="MobX" />
+<br>MobX
+</td>
+<td align="center" width="110" height="90">
+<img src="https://reactrouter.com/_next/static/media/logo.79c1d2b1.svg" width="36" height="36" alt="React Router" />
+<br>React Router
+</td>
+<td align="center" width="110" height="90">
+<img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="Pinia" />
+<br>Pinia
+</td>
+<td align="center" width="110" height="90">
+<img src="https://vuex.vuejs.org/vuex-logo.png" width="36" height="36" alt="Vuex" />
+<br>Vuex
+</td>
+<td align="center" width="110" height="90">
+<img src="https://router.vuejs.org/logo.png" width="36" height="36" alt="Vue Router" />
+<br>Vue Router
+</td>
+</tr>
+<tr>
+<td align="center" width="110" height="90">
+<img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" width="36" height="36" alt="Webpack" />
+<br>Webpack
+</td>
+<td align="center" width="110" height="90">
+<img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+<br>Vite
+</td>
+</tr>
 </table>
 
 ---
@@ -85,7 +121,7 @@
 <br>Python
 </td>
 <td align="center" width="110" height="90">
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="36" height="36" alt="FastAPI" />
+<img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="36" height="36" alt="FastAPI" />
 <br>FastAPI
 </td>
 <td align="center" width="110" height="90">
@@ -95,16 +131,6 @@
 <td align="center" width="110" height="90">
 <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nest.js" />
 <br>Nest.js
-</td>
-</tr>
-</table>
-
----
-
-## 🗄 Database
-
-<table width='100%'>
-<tr>
 <td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
 <br>PostgreSQL
@@ -112,14 +138,6 @@
 <td align="center" width="110" height="90">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" />
 <br>Redis
-</td>
-<td align="center" width="110" height="90">
-<img src="https://www.sqlalchemy.org/img/sqla_logo.png" width="36" height="36" alt="SQLAlchemy" />
-<br>SQLAlchemy
-</td>
-<td align="center" width="110" height="90">
-<img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/images/logo_dark.svg" width="36" height="36" alt="Prisma" />
-<br>Prisma
 </td>
 </tr>
 </table>
@@ -204,5 +222,4 @@
 <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="Prettier" />
 <br>Prettier
 </td>
-<td align="center" width="110" height="90">
-<img src="https://brandeps.com/logo-download/S/
+
