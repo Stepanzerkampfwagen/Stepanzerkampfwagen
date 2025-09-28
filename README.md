@@ -246,7 +246,6 @@
 <td align="center" width="110" height="90">
 <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="Cypress" />
 <br>Cypress
-<tr>
 </td>
 <td align="center" width="110" height="90">
 <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" />
